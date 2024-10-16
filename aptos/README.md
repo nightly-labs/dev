@@ -15,4 +15,4 @@ Nightly Connect is a remote communication layer for dapps and wallets.
 - **Website**: [https://nightly.app/connect](https://nightly.app/connect)
 - **Documentation**: [https://docs.connect.nightly.app/docs/](https://docs.connect.nightly.app/docs/)
 - **Twitter**: [@NightlyConnect](https://x.com/NightlyConnect)
-- **Aptos Example**: [@ExampleAptos](https://aptos-web3-template.vercel.app/)
+- **Aptos Example**: [https://aptos-web3-template.vercel.app](https://aptos-web3-template.vercel.app/)
